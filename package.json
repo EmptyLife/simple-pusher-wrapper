@@ -1,0 +1,17 @@
+{
+  "author": "EmptyLife",
+  "browser": "./browser.js",
+  "dependencies": {
+    "pusher-js": "latest"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "license": "ISC",
+  "main": "index.js",
+  "name": "simple-pusher-wrapper",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
